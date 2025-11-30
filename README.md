@@ -23,12 +23,6 @@ Handles hyphens and apostrophes inside words
 Processes entire text files
 Outputs a corrected version of the input text as output_<filename>.
 
-Project Structure:
-
-├── spell_checker.py         # Main program
-├── misspellings.txt         # Dictionary of incorrect -> correct spellings
-└── sample_input.txt         # Example input text (optional)
-
 How It Works:
 1. Load misspellings
 
